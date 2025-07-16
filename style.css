@@ -1,0 +1,47 @@
+.box1 {
+    height: 500px;
+    width: 500px;
+    border: 20px solid;
+    border-radius: 50%;
+    margin-left: 35%;
+    margin-top: 6%;
+    border: 1rem solid white;
+    box-shadow: 
+    0 0 1rem blanchedalmond,
+    inset 0 0 2rem #fff,
+    0 0 2rem #3877FF,
+    0 0 4rem #3877FF,
+    inset 0 0 4rem #3877FF;
+    position: absolute;
+   transform-origin: 95% 50% 0;
+   transition: all 0.5s;
+    
+}
+.box1 img {
+    text-align: center;
+    border-radius: 50%;
+    height: 500px;
+    width: 500px;
+}
+.div {
+    height: 200px;
+    width: 130px;
+    background-color: black;
+    margin-left: 34%;
+    border-width: 19px;
+    border: 1rem solid white;
+    box-shadow: 
+    0 0 1rem blanchedalmond,
+    inset 0 0 2rem #fff,
+    0 0 2rem #3877FF,
+    0 0 4rem #3877FF,
+    inset 0 0 4rem #3877FF;
+    position: absolute;
+   transform-origin: 95% 50% 0;
+   transition: all 0.5s;
+
+}
+body {
+    background-color: black;
+
+}
